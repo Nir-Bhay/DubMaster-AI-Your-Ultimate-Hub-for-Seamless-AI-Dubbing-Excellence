@@ -1,5 +1,5 @@
 DubMaster AI: Your Ultimate Hub for Seamless AI Dubbing Excellence
-DubMaster AI is a cutting-edge project aimed at revolutionizing the landscape of audio dubbing through the power of artificial intelligence. With DubMaster AI, you can seamlessly dub audio content into multiple languages with unparalleled precision and quality.
+DubMaster AI is a cutting-edge platform designed for efficient and high-quality dubbing using artificial intelligence. Whether you're a content creator, filmmaker, or educator, DubMaster AI provides an all-in-one solution for creating smooth and professional voiceovers across multiple languages and accents.
 
 ![image](https://github.com/user-attachments/assets/6a144827-0d1a-4615-bad3-ba8c21288669)
 
@@ -16,6 +16,7 @@ Customization Options: Tailor your dubbing experience to suit your specific need
 
 ![image](https://github.com/user-attachments/assets/9008de14-f05b-4f17-8b87-2c90be1185ee)
 
+![image](https://github.com/user-attachments/assets/c61212a8-caa9-4fce-888b-dc779bac6d1e)
 
 
 Meet Our Team:
